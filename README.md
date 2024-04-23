@@ -22,5 +22,13 @@
 
 ---
 
+<h3>🗣️How to use</h3>
+<p><li>Install an IDE or text editor</li>
+For this first I really recommend to use <a href="https://code.visualstudio.com">VSCODE</a>
+</p>
+
+
+---
+
 <h3>📜License</h3>
 <a href="https://github.com/JeanCarlos0112/workshopnode/blob/main/LICENSE">MIT</a>
