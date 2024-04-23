@@ -18,4 +18,4 @@
 ---
 
 <h3>📜License</h3>
-<a href="https://github.com/JeanCarlos0112/visual-studio-code-config/blob/main/LICENSE">MIT</a>
+<a href="https://github.com/JeanCarlos0112/workshopnode/blob/main/LICENSE">MIT</a>
