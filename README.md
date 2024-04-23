@@ -1,6 +1,9 @@
-<img src="images/websiteimg.png">
----
 <h2>🌐Node.js and Express Website</h2>
+<img src="images/websiteimg.png">
+
+---
+
+<h3>📖Informations</h3>
 <p>This project is based on a workshop made by <a href="https://webtech.network"><b>WEBTECH</b></a> of <b>PUC Minas Praça da Liberdade</b></p>
 
 ---
