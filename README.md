@@ -44,7 +44,6 @@ Express is used for make requisitions according to **[CRUD](https://developer.mo
       >node indes.js //The second line
 
       http://localhost:3000 //The third line
-  
       ```
 
    - Then you can press ctrl + click in the link to open in your web browser or copy the link and paste in the web browser then press enter.
