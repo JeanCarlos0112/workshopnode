@@ -1,5 +1,5 @@
 <h2>Node.js and Express Website</h2>
-<p>This project is based on a workshop made by <a href="https://webtech.network">**WEBTECH**</a> of **PUC Minas Praça da Liberdade**</p>
+<p>This project is based on a workshop made by <a href="https://webtech.network"><b>WEBTECH</b></a> of <b>PUC Minas Praça da Liberdade</b></p>
 
 ---
 
