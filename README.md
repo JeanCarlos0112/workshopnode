@@ -23,7 +23,7 @@
 ---
 
 <h3>🗣️How to use</h3>
-<p><li>Install an IDE or text editor</li>
+<p><ol><li>Install an IDE or text editor</li></ol>
 For this first I really recommend to use <a href="https://code.visualstudio.com">VSCODE</a>
 </p>
 
