@@ -23,8 +23,9 @@
 ---
 
 <h3>🗣️How to use</h3>
-<p><ol><li>Install an IDE or text editor</li></ol>
-<li>For this first I really recommend to use <a href="https://code.visualstudio.com">VSCODE</a></li>
+<p><ol><li>Install an IDE or text editor
+For this first I really recommend to use <a href="https://code.visualstudio.com">VSCODE</a>
+</li></ol>
 </p>
 
 
